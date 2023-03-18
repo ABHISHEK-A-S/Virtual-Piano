@@ -26,4 +26,4 @@ It works good and accurate with a FHD camera
 NOTE: A minor bug related to virtual piano is that the note might play for more than one time when pressed. To avoid that remove that hand from the key position as soon as you read it.
 please dont forget to add the samples of sound to the project directory
  
-VERY IMPORTANT: Some libraries does not work in the latest version. So downgrade it to the previous version
+VERY IMPORTANT: Some libraries does not work in the latest version. So downgrade it to the previous version.
