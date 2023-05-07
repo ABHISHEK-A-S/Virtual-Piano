@@ -1,4 +1,4 @@
-# Virtual-Piano
+# VIRTUAL_PIANO
 A virtual piano made using Python is a software application that simulates a piano keyboard on a computer. The program uses Python programming language to create a  virtual piano keyboard on the screen.
 
 *In the present digital world, It would be difficult for the composers or musicians without an instrument to play music. This project has dominance over here. It enables/allow the musician to play an instrument without the actual instrument. he only needs to play with hands in space.*
@@ -9,8 +9,7 @@ The program can be accessed and downloaded from Github. The code for the virtual
 
 The virtual piano can be customized by changing the keyboard layout, adding new sounds. It can also be integrated into other Python projects or used as a standalone application for music education or entertainment purposes.
 
-**MODULES TO BE IMPORTED:**
-
+#MODULES TO BE IMPORTED:
 import cv2,
 from cvzone.HandTrackingModule import HandDetector,
 from time import sleep,
