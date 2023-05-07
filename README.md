@@ -9,7 +9,7 @@ The program can be accessed and downloaded from Github. The code for the virtual
 
 The virtual piano can be customized by changing the keyboard layout, adding new sounds. It can also be integrated into other Python projects or used as a standalone application for music education or entertainment purposes.
 
-#MODULES TO BE IMPORTED:
+## MODULES TO BE IMPORTED:
 import cv2,
 from cvzone.HandTrackingModule import HandDetector,
 from time import sleep,
